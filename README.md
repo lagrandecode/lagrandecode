@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on a Flutter Open-Source project  or any data analyses project! ✌😁
 - 🤔 I’m looking for job... Ready to relocate to any country.
 - 💬 Ask me about OSS, Software Engineering, Machine Learning and Data Science.
-- 📫 How to reach me:      google
+- 📫 How to reach me: [Twitter](https://twitter/seunmolz)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
