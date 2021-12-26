@@ -1,5 +1,7 @@
 ### Hello Recruiters 👋, I'm Oluwaseun Ogunmolu
 
+![unnamed](https://user-images.githubusercontent.com/58033364/147422837-bbe4a0de-4d5d-436f-830a-808f7a38b5d6.jpg)
+
 
 
 - I'm a Statistician by profession, working in Lagos State Bureau of Statistics, Lagos-Nigeria. I'm also a software developer, Data Scientist and GIS Expert.
