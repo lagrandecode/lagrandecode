@@ -8,7 +8,7 @@
 - 🌱 Skills: Flutter - Dart / Python / Django / HTML-CSS / Javascript / UI Design / Java / Swift / Kotin / QGIS / STATA / PowerBI / Data Studio
 - I developed a mobile App called Alausasabi. A compendium of information for Public Servants. 
 - 🏆 I was awarded a double promotion by Mr. Governor, Babajide Sanwo-Olu for developing Alausasabi App.
-- 👯 I’m looking to collaborate on a Flutter Open-Source project  or any data analyses project! ✌😁
+- 👯 I’m looking to collaborate on Flutter Open-Source project  or any data analyses project! ✌😁
 - 🤔 I’m looking for job... Ready to relocate to any country.
 - 💬 Ask me about OSS, Software Engineering, Machine Learning and Data Science.
 - 📫 How to reach me: [Twitter](https://twitter/seunmolz) , [Linkedin](https://www.linkedin.com/in/oluwaseun-ogunmolu-103bbb198/) ,  (seunogunmolufirst1@gmail.com) , [YouTube](https://www.youtube.com/channel/UCLIXW48R5YR7tq41xYoT3Og)
