@@ -14,7 +14,7 @@
 - 📫 How to reach me: [Twitter](https://twitter/seunmolz) , [Linkedin](https://www.linkedin.com/in/oluwaseun-ogunmolu-103bbb198/) ,  (seunogunmolufirst1@gmail.com) , [YouTube](https://www.youtube.com/channel/UCLIXW48R5YR7tq41xYoT3Og)
 See more of my technical articles on: [Medium](https://seunogunmolufirst1.medium.com/)
 - ⚡ Fun fact: ...
-- love teaching and sharing Knowledge!
+- I love teaching and sharing Knowledge!
 - South Paw!
 - Ambidextral
 
