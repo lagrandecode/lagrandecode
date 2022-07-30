@@ -1,5 +1,7 @@
 ### Hello Recruiters 👋, I'm Oluwaseun Ogunmolu
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+Profile;I'm+a+Software+Engineer;experience+Data+Scientist)](https://git.io/typing-svg)
+
 ![unnamed](https://user-images.githubusercontent.com/58033364/147422837-bbe4a0de-4d5d-436f-830a-808f7a38b5d6.jpg)
 
 
