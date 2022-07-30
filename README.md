@@ -23,4 +23,6 @@ See more of my technical articles on: [Medium](https://seunogunmolufirst1.medium
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lagrandecode&theme=radical)](https://git.io/streak-stats)
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lagrandecode&theme=radical)](https://github.com/lagrandecode/github-readme-activity-graph)
+
 
