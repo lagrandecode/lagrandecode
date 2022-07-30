@@ -21,6 +21,6 @@ See more of my technical articles on: [Medium](https://seunogunmolufirst1.medium
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lagrandecode&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lagrandecode)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lagrandecode&theme=radical)](https://git.io/streak-stats)
 
 
