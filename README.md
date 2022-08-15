@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+Profile;I'm+a+FullStack+Sofware+Engineer;Experience+Data+Analyst;GIS+Expert;with+more+than+10+years+work+experience;Always+learning+new+things+😃)](https://git.io/typing-svg)
 
+![](https://komarev.com/ghpvc/?username=lagrandecode&theme=radical)
+
 ![unnamed](https://user-images.githubusercontent.com/58033364/147422837-bbe4a0de-4d5d-436f-830a-808f7a38b5d6.jpg)
 
 
@@ -19,8 +21,6 @@ See more of my technical articles on: [Medium](https://seunogunmolufirst1.medium
 - I love teaching and sharing Knowledge!
 - South Paw!
 - Ambidextral
-
-![](https://komarev.com/ghpvc/?username=lagrandecode&theme=radical)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lagrandecode&theme=radical)
 
