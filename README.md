@@ -20,6 +20,7 @@ See more of my technical articles on: [Medium](https://seunogunmolufirst1.medium
 - South Paw!
 - Ambidextral
 
+![](https://komarev.com/ghpvc/?username=lagrandecode&theme=radical)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lagrandecode&theme=radical)
 
