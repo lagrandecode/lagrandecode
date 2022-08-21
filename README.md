@@ -9,7 +9,7 @@
 
 
 - I'm a Data Analyst by profession, working in Lagos State Bureau of Statistics, Lagos-Nigeria. I'm also a software Engineer, Data Scientist and GIS Expert.
-- 🌱 Skills: Flutter - Dart / Python - Django / HTML-CSS / Javascript / UI Design / Java / Swift / Kotlin / QGIS / STATA / PowerBI / Data Studio
+- 🌱 Skills: Flutter - Dart / Python - Django / HTML-CSS / Javascript / UI Design / Java / Swift / Kotlin / QGIS / STATA / PowerBI / Data Studio / Tableau
 - I developed a mobile App called Alausasabi. A compendium of information for Public Servants. 
 - 🏆 I was awarded a double promotion by Mr. Governor, Babajide Sanwo-Olu for developing Alausasabi App.
 - 👯 I’m looking to collaborate on Flutter Open-Source project  or any data analyses project! ✌😁
