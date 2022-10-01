@@ -28,6 +28,6 @@ See more of my technical articles on: [Medium](https://seunogunmolufirst1.medium
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lagrandecode&theme=rogue)](https://github.com/lagrandecode/github-readme-activity-graph)
 
-![snake gif](https://github.com/lagrandecode/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/lagrandecode/lagrandecode/blob/output/github-contribution-grid-snake.gif)
 
 
