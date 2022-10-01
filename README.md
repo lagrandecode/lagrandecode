@@ -30,4 +30,7 @@ See more of my technical articles on: [Medium](https://seunogunmolufirst1.medium
 
 ![snake gif](https://github.com/lagrandecode/lagrandecode/blob/output/github-contribution-grid-snake.gif)
 
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
 
